@@ -7,6 +7,7 @@
 #+PROPERTY: JUAN 0
 #+PROPERTY: FILE SB03n0062-000人物志-序.
 <pb:KR3j0011_SBCK_000-1a>¶
+# SB1_0429-166.png
 序人物志後¶
 余嘗三復人物志而竊有感焉夫人徳性¶
 資之繼成&KR0004;未始有異也而終之相去懸¶
@@ -24,6 +25,7 @@
 #+PROPERTY: JUAN 0
 #+PROPERTY: FILE SB03n0062-000人物志-目録.
 <pb:KR3j0011_SBCK_000-2a>¶
+# SB1_0429-014.png
 　人物志目録¶
 　　上卷¶
 　　　　　九徴一　體别二¶
